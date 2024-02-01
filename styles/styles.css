@@ -43,7 +43,7 @@ button {
 
 body {
   line-height: 1.6;
-  background-image: url("images/Figma\ Background\ for\ CSS\,\ advanced.png");
+  background-image: url("/images/background.png");
   background-size: 1555px 1055px; /* Adjust as needed */
   background-position: center top; /* Adjust as needed */
   background-repeat: no-repeat; /* Adjust as needed */
