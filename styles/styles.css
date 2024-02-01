@@ -32,7 +32,7 @@ button {
 
 @font-face {
   font-family: "Source Sans Pro";
-  src: url(../css_advanced/SourceSansPro-Regular.otf) format("opentype");
+  src: url(../SourceSansPro-Regular.otf) format("opentype");
 }
 
 * {
