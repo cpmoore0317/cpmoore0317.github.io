@@ -1,6 +1,6 @@
 # Parker Moore's Portfolio Website
 
-![Portfolio Screenshot](link-to-screenshot.png)
+![Portfolio Screenshot](portfolio.png)
 
 ## About the Developer
 
